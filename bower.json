@@ -1,0 +1,19 @@
+{
+  "name": "bower-gulp-copy",
+  "version": "0.0.0",
+  "authors": [
+    "Joe Critchley <joe@strobedigital.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "backbone": "~1.2.0",
+    "normalize.css": "~3.0.3"
+  }
+}
